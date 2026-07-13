@@ -31,6 +31,8 @@ logo https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
 37.ช่องCableChannel37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+38.ช่องthainews
+https://live.thaitvstream.com/play/thainews/index.m3u8
 39.ช่องTop News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 40.ช่องThaiChaiyo
@@ -42,3 +44,8 @@ logo https://imgur.com/pnbzE2V
 https://ramach.ddns.net/live/ramalive/index.m3u8
 45.ช่องThai Chaiyo
 https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
+50.ช่องฺฺpluto
+https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
+60.ช่องReal Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+66.ช่องOne Golf HD
