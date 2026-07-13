@@ -1,22 +1,34 @@
 Channel7 
+logo https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png
 https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+CH5
+logo https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/5.png
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 NBT HD 
+logo https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/2.png
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
 THAI PBS HD
+logo https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/3.png
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 TPTV
+logo https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/10.png
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 Thai Chaiyo
 https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 Channel 8
+logo http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist.m3u8
 True4U
+logo https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/24.png
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 GMM 25
+logo https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png
 https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/playlist-hls.m3u8
 ONE HD
+logo https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/31.png
 https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8
 THAI PBS HD
+logo https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/3.png
 https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
 Top News
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
@@ -24,5 +36,8 @@ ThaiChaiyo
 https://live-iptv.thaichaiyo.tv/tcy/live-720P.m3u8
 CableChannel37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-
-
+TOP Channal
+https://live.cool-channel.com:443/cool/live-720P.m3u8
+RAMACHANNAL
+logo https://imgur.com/pnbzE2V
+https://ramach.ddns.net/live/ramalive/index.m3u8
