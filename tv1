@@ -178,3 +178,36 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 137.ช่องCCTV 17
 โลโก้ช่อง https://www.lyngsat-logo.com/logo/tv/cc/cctv-17-cn.png
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
+138.ช่องCCTV 4 EUROPE
+โลโก้ช่อง https://www.lyngsat-logo.com/logo/tv/cc/cctv-4-europe-cn.png
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+139.ช่องCCTV 4K
+โลโก้ช่อง https://www.lyngsat-logo.com/logo/tv/cc/cctv-4k-cn.png
+http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+140.ช่องCCTV 16 4K
+โลโก้ช่อง https://www.lyngsat-logo.com/logo/tv/cc/cctv-16-cn.png
+http://74.91.26.218:82/live/cctv16hd.m3u8
+141.ช่องCCTV HEALTH
+โลโก้ช่อง https://www.lyngsat-logo.com/logo/tv/cc/cctv-health-cn.png
+http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+142.ช่องCCTV DRAMA
+โลโก้ช่อง https://www.lyngsat-logo.com/logo/tv/cc/cctv-drama-cn.png
+http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+143.ช่องCCTV THEATER
+โลโก้ช่อง https://www.lyngsat-logo.com/logo/tv/cc/cctv-theater-cn.png
+http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+144.ช่องCCTV NOSTALGIA THEATER
+โลโก้ช่อง https://www.lyngsat-logo.com/logo/tv/cc/cctv-nostalgia-theater-cn.png"
+http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+145.ช่องCCTV WORLD GEOGRAPHY
+โลโก้ช่อง https://www.lyngsat-logo.com/logo/tv/cc/cctv-world-geography-cn.png
+http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+146.ช่องCCTV TV GUIDE
+โลโก้ช่อง https://www.lyngsat-logo.com/logo/tv/cc/cctv-tv-guide-cn.png
+http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+147.ช่องCCTV  GOLF & TENNIS
+โลโก้ช่อง https://www.lyngsat-logo.com/logo/tv/cc/cctv-golf-and-tennis-cn.png
+http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+148.ช่องCCTV CLASSIC
+โลโก้ช่อง https://www.lyngsat-logo.com/logo/tv/cc/cctv-classic-cn.png
+http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
