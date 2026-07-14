@@ -28,6 +28,15 @@ https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 11.ช่องfrance24
 โลโก้ช่อง https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/330px-France24.png
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8
+12.ช่องJP NHK World
+โลโก้ช่อง https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/960px-NHK_World.svg.png
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+13.ช่องFashionTV
+โลโก้ช่อง https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Fashion_TV_logo_2017.svg/250px-Fashion_TV_logo_2017.svg.png
+https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+14.ช่องGlobal Fashion Channel
+โลโก้ช่อง https://bx-tv.com/wp-content/uploads/2021/05/us-global-fashion-channel.jpg
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 24.ช่องTrue4U
 โลโก้ช่อง https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/24.png
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
