@@ -4,15 +4,30 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/play
 3.ช่องTHAI PBS HD
 โลโก้ช่อง https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/3.png
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+4.ช่องwildearth
+โลโก้ช่อง https://store-assets.teespring.com/storefronts/wildearth/assets/logo.png?t=19e4019b949
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 5.ช่องCH5
 โลโก้ช่อง https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/5.png
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+6.ช่องBBC Earth
+โลโก้ช่อง https://static.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest?cb=20171204084854
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+7.ช่องAl Jazeera English
+โลโก้ช่อง https://img.favpng.com/18/16/17/al-jazeera-english-cnbc-television-logo-png-favpng-5e0cWa4SpAyP2suJycnZ7GVhs.jpg
+https://cdn-7.pishow.tv/live/429/master.m3u8
 8.ช่องChannel8
 โลโก้ช่อง http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png
 https://cdn-th-vip.login.in.th/ch8/ch8/chunklist.m3u8
+9.ช่องDW
+โลโก้ช่อง https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMnxGx2ZTeKuNqlzsvg0vsOUa6AzNSO7USfglimJ2e6XoaXNNf_ML2Qao&s=10
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 10.ช่องTPTV
 โลโก้ช่อง https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/10.png
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8
+11.ช่องfrance24
+โลโก้ช่อง https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/330px-France24.png
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_900.m3u8
 24.ช่องTrue4U
 โลโก้ช่อง https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/24.png
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
@@ -50,6 +65,8 @@ https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/chunklist.m3u8
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 48.ช่องsiamnewstv
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+49.ช่องสยามไทย
+https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
 50.ช่องฺฺpluto
 https://jmp2.uk/plu-563a970aa1a1f7fe7c9daad7.m3u8
 60.ช่องReal Madrid TV
