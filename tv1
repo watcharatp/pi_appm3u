@@ -5,7 +5,22 @@ tvg-id="1"
 #EXTINF:-1 Bloomberg  tvg-logo="https://madoball.com/upload/2814.jpg"
 https://godlivetv.io/madoball/2814/playlist.m3u8|Referer=https://madoball.com
  tvg-id="2"
-#EXTINF:-1 CBS News (CBSN)  tvg-logo="https://madoball.com/upload/3026.jpg"
-https://godlivetv.io/madoball/3026/playlist.m3u8|Referer=https://madoball.com
-tvg-id="3"
+#EXTINF:-1 MoNo  tvg-logo="https://github.com/zaxacaasada/logotv/blob/main/MonomaxSportsTV.png"
+https://live-tv.monomax.me/v1/019d38969c6c150b585a1f99efcb45/019e96a14f12150b585a122d294a26/main.m3u8
+tvg-id="29"
 
+****ช่องกีฬา****
+#EXTINF:-1 ช่องReal Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
+#EXTINF:-1 ช่องWorld Cup1
+http://178.253.194.79:10001
+#EXTINF:-1 ช่องWorld Cup2
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 ช่องWorld Cup3
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+#EXTINF:-1 ช่องWorld Cup10
+https://sl2.sigmatv.com/hls/live.m3u8
+#EXTINF:-1 ช่องWorld Cup11
+http://110.235.59.30:7168/0.ts
+#EXTINF:-1 ช่องWorld Cup12
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
