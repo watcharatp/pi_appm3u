@@ -1,7 +1,7 @@
 #EXTM3U
-BBC World News tvg-id="1"  tvg-logo="https://madoball.com/upload/6638.jpg"
+#EXTINF:-1 tvg-id="1"  tvg-logo="https://madoball.com/upload/6638.jpg",BBC World News
 https://godlivetv.io/madoball/6638/playlist.m3u8|Referer=https://madoball.com
-Bloomberg tvg-id="2"  tvg-logo="https://madoball.com/upload/2814.jpg"
+#EXTINF:-1 tvg-id="2"  tvg-logo="https://madoball.com/upload/2814.jpg", Bloomberg 
 https://godlivetv.io/madoball/2814/playlist.m3u8|Referer=https://madoball.com
-CBS News (CBSN) tvg-id="3"  tvg-logo="https://madoball.com/upload/3026.jpg"
+#EXTINF:-1 tvg-id="3"  tvg-logo="https://madoball.com/upload/3026.jpg",CBS News (CBSN)
 https://godlivetv.io/madoball/3026/playlist.m3u8|Referer=https://madoball.com
