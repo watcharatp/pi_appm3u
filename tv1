@@ -72,6 +72,15 @@ http://54.37.19.157/spotv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live Sports",Spo Tv2
 http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115686&extension=m3u8
 
+#EXTINF:-1 group-title="Meanmar", MWDvariety
+http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115689&extension=m3u8
+
+ZooMoo
+http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115690&extension=m3u8
+NHKWorld Japan
+http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115691&extension=m3u8
+PlutoTV
+http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115694&extension=m3u8
 
 #EXTINF:-1 group-title="Live Sports",True Tennis
 http://54.37.19.157/tennis/tracks-v1a1/mono.m3u8
@@ -79,6 +88,8 @@ http://54.37.19.157/tennis/tracks-v1a1/mono.m3u8
 http://54.37.19.157/golf/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Live Sports",Golf+
 http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115698&extension=m3u8
+#EXTINF:-1 group-title="Live Sports",Golf+
+http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115703&extension=m3u8
 
 
 #EXTINF:-1 group-title="Live Sports",Bein 1
@@ -87,9 +98,6 @@ http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:78:D9&stream=1841552&ex
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:78:D9&stream=1841553&extension=m3u8
 #EXTINF:-1 group-title="Live Sports",Bein 3
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:78:D9&stream=1841554&extension=m3u8
-
-
-
 
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://epg.v1.mk/logo/cctv5.png",CCTV5 hd
@@ -190,17 +198,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 #EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.webp",TSPORTS 7
 https://lb-gmmz.sky-cdn.com/gmm/tsport7.m3u8
 
-
-#EXTINF:-1 group-title="ช่องข่าว" tvg-logo="https://i.imgur.com/tRFnV9M.png",Top News
-https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 group-title="ช่องข่าว" tvg-logo="https://i.imgur.com/h3TY38F.png",Nation TV
-https://lb-gmmz.sky-cdn.com/gmm/nation.m3u8
-#EXTINF:-1 group-title="ช่องข่าว" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png",News1
-https://server1.streamssl.com/stream/news1_mid.m3u8
-#EXTINF:-1 group-title="ช่องข่าว" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/suwannabhumi.png",Suwannabhumi Channel
-https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:-1 group-title="ช่องข่าว" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/siamthai.png",13สยามไท
-https://live.x2.co.th/live/13livetv-th_720p/index.m3u8	
 #EXTINF:-1 group-title="ช่องข่าว",Cable 37
 http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115529&extension=m3u8
 
@@ -300,187 +297,6 @@ http://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls
 https://akariko.netgenx.site/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
 
 
-#EXTINF:-1 group-title="BS",NHK BSP4K
-https://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",NHK BS 
-https://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",BS NTV 
-https://akariko.netgenx.site/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",BS Asahi 
-https://akariko.netgenx.site/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",BS TBS 
-https://akariko.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",BS TV Tokyo 
-https://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",BS Fuji 
-https://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",Bs10 
-https://akariko.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",Bs10 Premium
-https://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",BS11
-https://akariko.netgenx.site/stream/jp/bs11/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",BS12
-https://akariko.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",Nihon Eiga Senmon
-https://akariko.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",Jidaigeki Senmon 
-https://akariko.netgenx.site/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime 
-https://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema 
-https://akariko.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live 
-https://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",WOWOW Plus
-https://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1 
-https://akariko.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2 
-https://akariko.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3 
-https://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4 
-https://akariko.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",Green Channel 
-https://akariko.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",Animax 
-https://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",Sky A 
-http://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",Fishing Vision 
-https://akariko.netgenx.site/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",Disney Channel 
-https://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="BS",JCOM BS
-https://akariko.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="CS",Toei Channel 
-https://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Movie Plus 
-http://akariko.netgenx.site/stream/jp/movie_plus/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",The Cinema
-https://akariko.netgenx.site/stream/jp/the_cinema/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Super Drama TV
-https://akariko.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Eisei Gekijo
-https://akariko.netgenx.site/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Home Drama Channel
-https://akariko.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Fuji TV Next 
-https://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Fuji TV One
-https://akariko.netgenx.site/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Fuji TV Two
-https://akariko.netgenx.site/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",TV Asahi Channel 1
-https://akariko.netgenx.site/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",TV Asahi Channel 2
-https://akariko.netgenx.site/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",TBS Channel 1
-https://akariko.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",TBS Channel 2
-https://akariko.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",NTV Plus
-https://akariko.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Sky A
-https://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Gaora Sports
-https://akariko.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Golf Network
-https://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Sport Live Plus
-https://akariko.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Fighting TV Samurai
-https://akariko.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Mondo TV 
-https://akariko.netgenx.site/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Channel Ginga 
-https://akariko.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Space Shower TV
-https://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Music Japan TV 
-https://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Mnet
-https://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",KNTV 
-https://akariko.netgenx.site/stream/jp/kntv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Music On! TV
-https://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Music Air
-https://akariko.netgenx.site/stream/jp/music_air/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Kayo Pops 
-https://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",MTV 
-https://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",LaLa TV 
-https://akariko.netgenx.site/stream/jp/lala_tv/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Cartoon Network 
-http://akariko.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",AT-X
-https://akariko.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Discovery Channel  
-http://akariko.netgenx.site/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Animal Planet 
-http://akariko.netgenx.site/stream/jp/animal_planet/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Dlife 
-https://akariko.netgenx.site/stream/jp/dlife/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Action Channel
-https://akariko.netgenx.site/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Mystery Channel
-https://akariko.netgenx.site/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Takarazuka Sky Stage
-https://akariko.netgenx.site/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Tetsudo Channel
-https://akariko.netgenx.site/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Me-Tele Next
-https://akariko.netgenx.site/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Neco Channel 
-https://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
-#EXTINF:-1 group-title="CS",Tabi Channel 
-https://akariko.netgenx.site/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
-
-
-#EXTINF:-1 group-title="CS2",キャンプ・アウトドア
-https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
-#EXTINF:-1 group-title="CS2",GOLF LIFE
-https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
-#EXTINF:-1 group-title="CS2",観るたび
-https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
-#EXTINF:-1 group-title="CS2",今日のごはんなに?
-https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
-#EXTINF:-1 group-title="CS2",ペットTV
-https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
-#EXTINF:-1 group-title="CS2",東海ロキポ 
-https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
-#EXTINF:-1 group-title="CS2",丸ごと北海道 
-https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
-#EXTINF:-1 group-title="CS2",FASHIONPLUS
-https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
-#EXTINF:-1 group-title="CS2",ぴあ落語ざんまい
-https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
-#EXTINF:-1 group-title="CS2",丸ごと九州 
-https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
-#EXTINF:-1 group-title="CS2",ビジネス・プレミアム
-https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
-#EXTINF:-1 group-title="CS2",エンタメ・アジア 
-https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
-#EXTINF:-1 group-title="CS2",LeminoTV 
-https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
-
-
-
-#EXTINF:-1 group-title="Thai",SIAM NEWS
-http://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-#EXTINF:-1 group-title="Thai",Thainews
-http://live.thaitvstream.com/play/thainews/index.m3u8
-#EXTINF:-1 group-title="Thai",Chiangrai
-http://live.thaitvstream.com/play/chiangrai/index.m3u8
-#EXTINF:-1 group-title="Thai",MOUNCHON TV
-http://live2.thaitvstream.com/play/mounchontv/index.m3u8
-
-
 #EXTINF:-1 group-title="Documentary",Wonder 
 http://lds-wonder-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Wild Earth
@@ -507,7 +323,6 @@ https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="News",Al Jazeera English
 https://cdn-7.pishow.tv/live/429/master.m3u8
-https://cdn-7.pishow.tv/live/429/master.m3u8
 #EXTINF:-1 group-title="News",Cna
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="News",TRT World
@@ -528,138 +343,6 @@ https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-r
 http://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/ABC_News_logo_2021.svg.png",ABC News	
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
-
-
-#EXTINF:-1 group-title="Local",AMG TV 
-http://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
-#EXTINF:-1 group-title="Local",Skai 
-http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 group-title="Local",Channel 44 
-http://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
-#EXTINF:-1 group-title="Local",Canal Alpha Ju  
-http://canalalphaju.vedge.infomaniak.com/livecast/canalalphaju/playlist.m3u8
-#EXTINF:-1 group-title="Local",ABC Entertains (720p)
-https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 group-title="Local",ABC TV ACT (720p)
-https://c.mjh.nz/abc-act.m3u8
-#EXTINF:-1 group-title="Local",ABC TV NSW (720p)
-https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:-1 group-title="Local",ABC TV NT (720p)
-https://c.mjh.nz/abc-nt.m3u8
-#EXTINF:-1 group-title="Local",ABC TV Plus (720p)
-https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:-1 group-title="Local",ABC TV QLD (720p)
-https://c.mjh.nz/abc-qld.m3u8
-#EXTINF:-1 group-title="Local",ABC TV SA (720p)
-https://c.mjh.nz/abc-sa.m3u8
-#EXTINF:-1 group-title="Local",ABC TV TAS (720p)
-https://c.mjh.nz/abc-tas.m3u8
-#EXTINF:-1 group-title="Local",ABC TV VIC (720p)
-https://c.mjh.nz/abc-vic.m3u8
-#EXTINF:-1 group-title="Local",ABC TV WA (720p)
-https://c.mjh.nz/abc-wa.m3u8
-
-
-#EXTINF:-1 group-title="Russia",Htm
-http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:-1 group-title="Russia",3XO TV
-http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Omroep Brabant
-http://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/tv/index.m3u8
-#EXTINF:-1 group-title="Russia",Kino 1 International
-http://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="Russia",12Ch
-http://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Kino Inter
-http://autopilot.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Russia",Kino 18
-https://autopilot.catcast.tv/content/40381/index.m3u8
-#EXTINF:-1 group-title="Russia",Aectoe Kino Inter
-https://autopilot.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="Russia",My3bak 1 Inter
-https://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 group-title="Russia",My3bak 2 Inter
-https://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 group-title="Russia",My3kar Kino Inter
-https://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 group-title="Russia",DanceHits80
-http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1 group-title="Russia",Kulinar TV Show
-https://api.alpaca.t62a.com/hls/9110/index.m3u8
-#EXTINF:-1 group-title="Russia",Sochi 24 HD
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1 group-title="Russia",TV BRICS Russian 
-http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Tvoe TV HD
-http://tvoetv.space:8080/tvoetv/index.m3u8
-#EXTINF:-1 group-title="Russia",Anct TB
-http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Apnc 24 
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Actp 24 
-https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Actp Ru Sport 
-https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Genro 24 
-https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
-#EXTINF:-1 group-title="Russia",Gonb A3wa
-http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Betta 24
-http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Bonro 24
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="Russia",Ehnc
-https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 group-title="Russia",3ae3a
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 group-title="Russia",3ae3a Nnoc
-http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 group-title="Russia",N3aec
-http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Mnp Gen
-http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 group-title="Russia",Nano Tb
-http://s1.tv-nano.com/Nano_rec/index.m3u8
-#EXTINF:-1 group-title="Russia",Hbk Caxa
-https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Hnxu Hoaro 24
-https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Hnka TB
-https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Htc
-https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Npwa
-https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
-#EXTINF:-1 group-title="Russia",Pgk
-https://uiptv.do.am/1ufc/701293058/playlist.m3u8
-#EXTINF:-1 group-title="Russia",C1
-https://sitv.ru/hls/stv.m3u8
-#EXTINF:-1 group-title="Russia",Caoe HD
-http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
-#EXTINF:-1 group-title="Russia",Taoe TB Knop
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-#EXTINF:-1 group-title="Russia",Tennoc TB
-https://streaming.astrakhan.ru/telplushd/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Tonk HD
-http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 group-title="Russia",Tpn Ahrena
-https://hls.tv.3angels.ru/stream.m3u8
-#EXTINF:-1 group-title="Russia",Wahcoh TB
-https://uiptv.do.am/1ufc/602079679/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Cambodia",Apsara
-https://live.ams.com.kh/app/stream/playlist.m3u8
-#EXTINF:-1 group-title="Cambodia",Sea Tv
-https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 group-title="Cambodia",Moi Tv
-http://202.62.56.22:8080/hls/MOITV.m3u8
-#EXTINF:-1 group-title="Cambodia",Komsan TV
-http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
-#EXTINF:-1 group-title="Cambodia",TVK
-http://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 group-title="Cambodia",TVK 2
-http://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-1-cn.png" group-title="SHAREEXT@CHINA_STATION/央视频道", CCTV 1 (live)
@@ -928,126 +611,3 @@ http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
 
 
-#EXTINF:-1 tvg-name="HUAHEEDAI" tvg-logo="https://cdn.jsdelivr.net/gh/luoluowoaini/CCTV4K-LOGO@main/HUA HEE DAI.png" group-title="SHAREEXT@Television/MY/ASTRO",ASTRO Happy Stage
-http://o11.163189.xyz/stream/live/hxt/
-#EXTINF:-1 tvg-name="IQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱奇艺.png" group-title="SHAREEXT@Television/MY/ASTRO",IQIYI
-http://o11.163189.xyz/stream/live/iqiyi/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/182_144.png" group-title="SHAREEXT@Television/MY/ASTRO",AEC (xyz)
-https://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/172_144.png" group-title="SHAREEXT@Television/MY/ASTRO",AOD (xyz)
-https://o11.163189.xyz/stream/live/aod/
-
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="132.astro" tvg-logo="https://telegra.ph/file/d2f120faedec1a128846b.png",Drama Hebat
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
-
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="131.astro" tvg-logo="https://telegra.ph/file/7b071d2ccbc3052b82cd1.png",Filem Mantap
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
-
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="134.astro" tvg-logo="https://telegra.ph/file/12bc717e3ee372f2a62e8.png",Lawak Sentral
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
-
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="133.astro" tvg-logo="https://telegra.ph/file/444552edb8dc56b75f79e.png",Drama Hotpot
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
-   
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="135.astro" tvg-logo="https://telegra.ph/file/b98309b1149a14d39490f.png",Travel & Taste
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
-
-#EXTINF:-1 group-title="SHAREEXT@Television/MY/ASTRO" tvg-id="136.astro" tvg-logo="https://pictr.com/images/2024/05/03/EsLrnD.png",Oh My Ceria!
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
-
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/TransTv.png" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TRANStv_dt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/trans%207.png" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TRANS7_dt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",TVN MOVIES (TRANS2)
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
-#EXTINF:-1 group-title="SHAREEXT@ INDONESIAN || TELEVISION" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/net.png",MDTV (TRANS2)
-http://202.150.161.212:5000/live/channel31/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",BIOSKOP INDONESIA (TRANS2)
-http://202.150.161.212:5000/live/channel35/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fdgctfYj/shareext-television-INDONESIA.jpg" group-title="SHAREEXT@ INDONESIAN || TELEVISION",JTV (TRANS2)
-http://202.150.161.212:5000/live/channel38/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/moji.png" group-title="SHAREEXT@ INDONESIAN || TELEVISION",MOJI (TRANS2)
-http://202.150.161.212:5000/live/channel39/playlist.m3u8
-
-
-#EXTINF:-1 group-title="SHAREEXT@ INDIHOME_TV" tvg-logo="https://i.postimg.cc/pdBP8nkd/ezgif-8520dcdbeeb04407.png",MAX EATS (INDI)
-https://cdnbal1.indihometv.com/atm/DASH/maxeats/manifest.mpd
-#EXTINF:-1 group-title="SHAREEXT@ INDIHOME_TV" tvg-logo="https://i.postimg.cc/c4d2g52Y/ezgif-89bcd41b153d08ab.png",MAX STREAK (INDI)
-https://cdnbal1.indihometv.com/atm/DASH/maxstreak/manifest.mpd
-#EXTINF:-1 group-title="SHAREEXT@ INDIHOME_TV" tvg-logo="https://i.postimg.cc/3w2dqR1d/ezgif-84cb6e8f15997207.png",MAX REELS (INDI)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
-#EXTINF:-1 group-title="SHAREEXT@ INDIHOME_TV" tvg-logo="https://images.indihometv.com/logo_tvonenew_big.png", TvOne (inditv) 
-https://cdnbal1.indihometv.com/atm/DASH/tvone/manifest.mpd
-#EXTINF:-1 group-title="SHAREEXT@ INDIHOME_TV" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/indosiar.png", Indosiar (inditv) 
-https://cdnbal1.indihometv.com/atm/DASH/indosiar/manifest.mpd
-#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/sctv.png" group-title="SHAREEXT@ INDIHOME_TV", SCTV (inditv) 
-https://cdnbal1.indihometv.com/atm/DASH/sctv/manifest.mpd
-#EXTINF:-1 tvg-id="New.Tv.Variety.id" group-title="SHAREEXT@ INDIHOME_TV" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_newtvvariety.png",NEW TV VARIETY (inditv)
-https://cdnbal1.indihometv.com/atm/DASH/newtvvariety/manifest.mpd
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://mimipipi22.github.io/logo/nasional/rcti.jpg" group-title="SHAREEXT@ INDIHOME_TV", RCTI (inditv)
-https://cdnbal1.indihometv.com/atm/DASH/rcti/manifest.mpd
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/mnctv.jpg" group-title="SHAREEXT@ INDIHOME_TV",MNCTV (inditv)
-https://cdnbal1.indihometv.com/atm/DASH/mnctv/manifest.mpd
-#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://mimipipi22.github.io/logo/nasional/gtv.jpg" group-title="SHAREEXT@ INDIHOME_TV",GTV (inditv)
-https://cdnbal1.indihometv.com/atm/DASH/globaltv/manifest.mpd
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/inews.jpg" group-title="SHAREEXT@ INDIHOME_TV",INEWS (inditv)
-https://cdnbal1.indihometv.com/atm/DASH/inews/manifest.mpd
-#EXTINF:-1 tvg-id="AllPlay.Ent.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/entertainment/allplayent.jpg" group-title="SHAREEXT@ INDIHOME_TV",ALL PLAY ENT
-https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
-#EXTINF:-1 tvg-id="Jawa.Pos.TV.id" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/nasional/jawapost.jpg" group-title="SHAREEXT@ INDIHOME_TV",JAWAPOST TV
-https://cdnbal1.indihometv.com/atm/DASH/jawapos/manifest.mpd
-#EXTINF:-1 tvg-id="Antara.id" tvg-name="Antara TV" tvg-logo="https://mimipipi22.github.io/logo/nasional/antaratv.jpg" group-title="SHAREEXT@ INDIHOME_TV",ANTARA TV
-https://cdnbal1.indihometv.com/atm/DASH/antara/manifest.mpd
-#EXTINF:-1 tvg-logo="https://mimipipi22.github.io/logo/nasional/sinpotv.jpg" group-title="SHAREEXT@ INDIHOME_TV",SIN PO TV
-https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
-#EXTINF:-1 tvg-id="MUI.TV.id" tvg-name="MUI TV.id" tvg-logo="https://mimipipi22.github.io/logo/religion/muitv.jpg" group-title="SHAREEXT@ INDIHOME_TV",MUITV
-https://cdnbal1.indihometv.com/atm/DASH/muitv/manifest.mpd
-#EXTINF:-1 tvg-id="MTATV.id" group-title="SHAREEXT@ INDIHOME_TV" tvg-logo="https://images.indihometv.com/assets/88_MTATV_2025_03_17_14_56_40.png",MTATV
-https://cdnbal1.indihometv.com/atm/DASH/mtatv/manifest.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/religion/uchannel.jpg" group-title="SHAREEXT@ INDIHOME_TV",U-CHANNEL
-https://cdnbal1.indihometv.com/atm/DASH/uchannel/manifest.mpd
-
-
-#EXTINF:-1 group-title="Fashion",FashionTV Paris L'Original (1080p)
-https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 group-title="Fashion",FashionTV Secrets (1080p)
-https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1
-#EXTINF:-1 group-title="Fashion",Global Fashion Channel
-https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-#EXTINF:-1 group-title="Fashion",02-Model Chic Midnight
-https://fl1004.bozztv.com/ushba72/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Fashion",03-Model Couture Midnight
-https://fl1004.bozztv.com/ushba75/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Fashion",04-Biki Bottom Midnight
-https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Fashion",05-Model Pulse Midnight
-https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
