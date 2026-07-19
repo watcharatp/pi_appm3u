@@ -89,102 +89,7 @@ http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:78:D9&stream=1841553&ex
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:78:D9&stream=1841554&extension=m3u8
 
 
-#EXTINF:-1 group-title="Live Sports",Astro Golf
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:78:D9&stream=1841556&extension=m3u8
-#EXTINF:-1 group-title="Live Sports",Astro Grandstand
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:50:78:D9&stream=1841541&extension=m3u8
 
-
-#EXTINF: -1 group-title="Live Sports", DAZN 1 TW
-rtmp://f13h.mine.nu/sat/tv731
-#EXTINF: -1 group-title="Live Sports", DAZN 2 TW
-rtmp://f13h.mine.nu/sat/tv741
-
-
-#EXTINF: -1 group-title="Live Sports",ArenaSportPremium1
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/arenasportpremium1.m3u8
-#EXTINF: -1 group-title="Live Sports",ArenaSportPremium1
-http://178.253.194.79:10001
-#EXTINF: -1 group-title="Live Sports",ArenaSportPremium2
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/arenasportpremium2.m3u8
-#EXTINF: -1 group-title="Live Sports",ArenaSportPremium2
-http://178.253.194.79:10004 
-#EXTINF: -1 group-title="Live Sports",ArenaSportPremium3
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/arenasportpremium3.m3u8
-#EXTINF: -1 group-title="Live Sports",ArenaSportPremium3
-http://178.253.194.79:10005 
-#EXTINF: -1 group-title="Live Sports",ArenaSportPremium4
-http://178.253.194.79:10016 
-#EXTINF: -1 group-title="Live Sports",ArenaSportPremium5
-http://178.253.194.79:10017 
-#EXTINF: -1 group-title="Live Sports",ARENASPORT1
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/arenasport1.m3u8
-#EXTINF: -1 group-title="Live Sports",ARENASPORT1
-http://178.253.194.79:10006
-#EXTINF: -1 group-title="Live Sports",ARENASPORT2
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/arenasport2.m3u8
-#EXTINF: -1 group-title="Live Sports",ARENASPORT2
-http://178.253.194.79:10007 
-#EXTINF: -1 group-title="Live Sports",ARENASPORT3
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/arenasport3.m3u8
-#EXTINF: -1 group-title="Live Sports",ARENASPORT3
-http://178.253.194.79:10008 
-#EXTINF: -1 group-title="Live Sports",ARENASPORT4
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/arenasport4.m3u8
-#EXTINF: -1 group-title="Live Sports",ARENASPORT4
-http://178.253.194.79:10009 
-#EXTINF: -1 group-title="Live Sports",ARENASPORT5
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/arenasport5.m3u8
-#EXTINF: -1 group-title="Live Sports",ARENASPORT5
-http://178.253.194.79:10010 
-#EXTINF: -1 group-title="Live Sports",ARENASPORT6
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/arenasport6.m3u8
-#EXTINF: -1 group-title="Live Sports",ARENASPORT6
-http://178.253.194.79:10011 
-#EXTINF: -1 group-title="Live Sports",ARENASPORT7
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/arenasport7.m3u8
-#EXTINF: -1 group-title="Live Sports",ARENASPORT7
-http://178.253.194.79:10012 
-#EXTINF: -1 group-title="Live Sports",ARENASPORT8
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/arenasport8.m3u8
-#EXTINF: -1 group-title="Live Sports",ARENASPORT8
-http://178.253.194.79:10013 
-#EXTINF: -1 group-title="Live Sports",ARENASPORT9
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/arenasport9.m3u8
-#EXTINF: -1 group-title="Live Sports",ARENASPORT10
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/arenasport10.m3u8
-#EXTINF: -1 group-title="Live Sports",Arena Tennis HD 
-http://178.253.194.79:10019 
-#EXTINF: -1 group-title="Live Sports",Arena Adrenalin HD 
-http://178.253.194.79:10018
-
-
-#EXTINF: -1 group-title="Live Sports",DIGISPORT1
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/digisport1.m3u8
-#EXTINF: -1 group-title="Live Sports",DIGISPORT2
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/digisport2.m3u8
-#EXTINF: -1 group-title="Live Sports",DIGISPORT3
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/digisport3.m3u8
-#EXTINF: -1 group-title="Live Sports",DIGISPORT4
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/digisport4.m3u8
-
-
-#EXTINF: -1 group-title="Live Sports",SPORTTV1
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/sporttv1.m3u8
-#EXTINF: -1 group-title="Live Sports",SPORTTV2
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/sporttv2.m3u8
-#EXTINF: -1 group-title="Live Sports",SPORTTV3
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/sporttv3.m3u8
-#EXTINF: -1 group-title="Live Sports",SPORTTV4
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/sporttv4.m3u8
-#EXTINF: -1 group-title="Live Sports",SPORTTV5
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/sporttv5.m3u8
-
-
-#EXTINF: -1 group-title="Live Sports",ESPN1 nl
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/espn1.m3u8
-#EXTINF: -1 group-title="Live Sports",ESPN2 nl
-https://github.com/zaxacaasada/logotv/raw/refs/heads/main/espn2.m3u8
 
 
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://epg.v1.mk/logo/cctv5.png",CCTV5 hd
@@ -208,13 +113,6 @@ http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.ibb.co.com/qJJrHJb/Rusia-Sport-Share-Ext.jpg", Euro Sport 2 HD
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 
-
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://assets.uzunmuhalefet.com/logos/a1535767-1a10-415f-81f2-967b13108bab.png" tvg-url="https://www.aspor.com.tr/" tvg-id="ASpor.tr",A Spor
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://assets.uzunmuhalefet.com/logos/3e902021-047e-418b-b761-657e22b630c8.png" tvg-url="https://www.htspor.com/" tvg-id="HTSpor.tr",HT Spor
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/ht-spor/ht-spor.m3u8
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://assets.uzunmuhalefet.com/logos/d34e5e05-83e3-41d5-a8a9-fc7b3603aeb7.png" tvg-url="https://www.ekoltv.com.tr/ekol-sports" tvg-id="EkolSports.tr",Ekol Sports
-https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 
 
 #EXTINF:-1 group-title="TV",Truefilmasia 
@@ -251,41 +149,7 @@ http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115620&exten
 http://88.135.69.66:2095/play/live.php?mac=10:27:BE:24:0e:b7&stream=115621&extension=m3u8
 
 
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png",Universal
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/H-Channel
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV",FckIDSeries
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/SERIES
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV",FckIDTOON
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/Cartoonumi
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV",FckIDMovie
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/PING
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/zv40P0s/logo-amazing.png",AMAZING
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/AMAZING
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png",Animal
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/Animal
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png",Science
-#EXTVLCOPT:http-user-agent=ห้ามแชร์
-http://49.0.64.96:8007/WSCI
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://i.ibb.co/pBHghpSx/237x0-icon.png",Movies world2
-http://49.0.64.96:8007/IZAA
-#EXTINF:-1 group-title="📺 PREMIUM PLAY TV" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/HISPORTS.png" group-title="📺 PREMIUM PLAY TV",Hi SPORTS HD
-http://49.0.64.96:8007/HiSports
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="📺 PREMIUM PLAY TV",••HI Fight HD
-http://49.0.64.96:8007/HIFIGHT 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="📺 PREMIUM PLAY TV",••DTV2 Tennis HD
-http://49.0.64.96:8007/TENNIS 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="📺 PREMIUM PLAY TV",••Top Fight HD
-http://49.0.64.96:8007/TOPFIGHT
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="📺 PREMIUM PLAY TV",••NBA One HD
-http://49.0.64.96:8007/NBA
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TqmZsKsb/shareext-logo-Thailand.png" group-title="📺 PREMIUM PLAY TV",••GOLF HD
-http://49.0.64.96:8007/GOLF
+
 
 
 #EXTINF:-1 group-title="️ช่องดิจิตอล" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",CH3 HD
@@ -605,135 +469,6 @@ https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
 #EXTINF:-1 group-title="CS2",LeminoTV 
 https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
 
-
-#EXTINF:-1 group-title="Korea",ABN
-https://vod2.abn.co.kr/IPHONE/abn.m3u8
-#EXTINF:-1 group-title="Korea",BTN TV
-https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-#EXTINF:-1 group-title="Korea",EBS 1TV
-https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Korea",EBS 2TV
-https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1 group-title="Korea",MBC
-https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-#EXTINF:-1 group-title="Korea",G1 SBS
-http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Korea",KBC SBS
-https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 group-title="Korea",UBC
-https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
-#EXTINF:-1 group-title="Korea",MBC Daejeon 
-https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Korea",TBS Seoul 
-http://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1 group-title="Korea",KOR Arirang 
-http://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgZY1ck4/IMG-2189.png" group-title="Korea",KMOVIES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/LsZY2QdY/IMG-2573.png" group-title="Korea",SBS Drama
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=425
-#EXTINF:-1 group-title="Korea",Kbs World
-http://koreatv.dothome.co.kr/kbsworld.php
-#EXTINF:-1 group-title="Korea",Kbs Story
-http://koreatv.dothome.co.kr/kbsstory.php
-#EXTINF:-1 group-title="Korea",Kbs Life
-http://koreatv.dothome.co.kr/kbslife.php
-#EXTINF:-1 group-title="Korea",Kbs Drama
-http://koreatv.dothome.co.kr/kbsdrama.php
-#EXTINF:-1 group-title="Korea",Kbs Joy
-http://koreatv.dothome.co.kr/kbsjoy.php
-#EXTINF:-1 group-title="Korea",Mbc Sports
-http://124.222.153.240/kakaotv/get_channel.php?channel=mbc_sports
-#EXTINF:-1 group-title="Korea",Sbs Sports
-http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_sports
-#EXTINF:-1 group-title="Korea",Sbs Golf
-http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf
-#EXTINF:-1 group-title="Korea",Tvn Sports
-http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_sports
-#EXTINF:-1 group-title="Korea",ENA Sports
-http://124.222.153.240/kakaotv/get_channel.php?channel=sky_sports
-#EXTINF:-1 group-title="Korea",Jttc Golf
-http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf
-#EXTINF:-1 group-title="Korea",Spotv Golf And Health
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health
-#EXTINF:-1 group-title="Korea",SPOTV Prime
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime
-#EXTINF:-1 group-title="Korea",SPOTV Prime 1
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
-#EXTINF:-1 group-title="Korea",SPOTV Prime 2
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
-#EXTINF:-1 group-title="Korea",ENA
-http://124.222.153.240/kakaotv/get_channel.php?channel=ena
-#EXTINF:-1 group-title="Korea",Ihq
-http://124.222.153.240/kakaotv/get_channel.php?channel=ihq
-#EXTINF:-1 group-title="Korea",Tvn Show
-http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_show
-#EXTINF:-1 group-title="Korea",Fishing Tv
-http://124.222.153.240/kakaotv/get_channel.php?channel=fishing_tv
-#EXTINF:-1 group-title="Korea",Channel E
-http://124.222.153.240/kakaotv/get_channel.php?channel=channel_e
-#EXTINF:-1 group-title="Korea",OCN Movies
-http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies
-#EXTINF:-1 group-title="Korea",OCN 
-http://124.222.153.240/kakaotv/get_channel.php?channel=ocn
-#EXTINF:-1 group-title="Korea",Chunghwa_tv
-http://124.222.153.240/kakaotv/get_channel.php?channel=chunghwa_tv
-
-
-#EXTINF:-1 group-title="Movies",Rogue TV  
-http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
-#EXTINF:-1 group-title="Movies",AMC 
-http://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
-#EXTINF:-1 group-title="Movies",MyTime movie network
-http://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies",MyTime movie network Brazil 
-http://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Miramax Movies
-https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Horror Machine
-https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Discover Film (UK)
-https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies",MovieSphere
-https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXvFMV42/IMG-2996.png" group-title="Movies",Free Movies
-https://amg01553-amg01553c2-samsung-th-7164.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Action Hollywood Movies(New Zealand)
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Movies",MHz Choice (Canada)
-https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies",ROMCOM K-Drama
-https://ee75dd7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfUm9tQ29tS0RyYW1hX0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Asiancrush
-https://linear-900.frequency.stream/dist/cineverse/900/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Sony One Blacklist (1080p)
-https://d1x87j1jmcypab.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Sony One Hits Action (1080p)
-https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Sony One Favoris (1080p)
-https://d21fkiqbljd83t.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Sony One Series Thriller (1080p)
-https://d1573iiyr4aa7c.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Best Drama TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8
-#EXTINF:-1 group-title="Movies",Best Thriller TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8
-#EXTINF:-1 group-title="Movies",Best Action TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
-#EXTINF:-1 group-title="Movies",HeartFelt TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/74c455d4-625a-448a-8ba7-d086e6462245/manifest.m3u8
-#EXTINF:-1 group-title="Movies",Universal Westerns
-https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 group-title="Movies",WeShort
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ea019bed-a45e-4dfe-a452-84f5f2f76ea9/manifest.m3u8
-#EXTINF:-1 group-title="Movies",Hi-Yah!
-https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Cool Channel
-http://live-iptv.cool-channel.com/cool/live-manifest.m3u8
-#EXTINF:-1 tvg-id="Channel8.th" group-title="Movies" tvg-logo="https://i.imgur.com/WypvBZ7.jpg",Channel 8
-https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 group-title="Movies",Mr Bean
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Thai",SIAM NEWS
